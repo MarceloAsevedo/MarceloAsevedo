@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Marcelo](https://github.com/MarceloAsevedo/MarceloAsevedo/assets/116969032/51440f7f-9f41-4a73-9e48-156cd2431342)
 <!--
 **MarceloAsevedo/MarceloAsevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
