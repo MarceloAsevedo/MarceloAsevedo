@@ -8,8 +8,8 @@
 
 
 Estoy estudiando Desarrollo de Software donde estoy aprendiendo
-JAVA | MySQL | UML | NetBeans | StarUML 
+- ⚡ JAVA | MySQL | UML | NetBeans | StarUML 
 
 Además hice cursos donde estuve aprendiendo
-JavaScript | HTML | CSS | Figma | UX | UI | Visual Studio Code
+- ⚡ JavaScript | HTML | CSS | Figma | UX | UI | Visual Studio Code
 
