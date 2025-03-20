@@ -7,9 +7,7 @@
 
 
 
-Estoy estudiando Desarrollo de Software donde estoy aprendiendo
-- ⚡ JAVA | MySQL | UML | NetBeans | StarUML | Spring Boot |
-
-Además estoy haciendo cursos de Desarrollo Web donde estuve aprendiendo
+Soy Desarrollador de Software 
+- ⚡ JAVA | MySQL | UML | NetBeans | StarUML | Spring Boot | JPA | Hibernate
 - ⚡ JavaScript | HTML | CSS | Figma | UX | UI | Visual Studio Code
 
